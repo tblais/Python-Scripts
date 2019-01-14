@@ -1,0 +1,652 @@
+Company,Position,GL_Job,Dept
+Canadian Niagara Hotels Inc,Bellperson,554010010-Bell Servi,002050-Bell Desk
+Canadian Niagara Hotels Inc,Bellperson,530210010-Bell Ser SAL,002050-Bell Desk
+Canadian Niagara Hotels Inc,Concierge,540110010-Concierge,002050-Bell Desk
+Canadian Niagara Hotels Inc,Valet Attendant,556010010-Valet Park,002050-Bell Desk
+Canadian Niagara Hotels Inc,Front Office Mgr,530010010-Ft Dsk Sal,002051-Front Desk
+Canadian Niagara Hotels Inc,Guest Serv Sup,530010010-Ft Dsk Sal,002051-Front Desk
+Canadian Niagara Hotels Inc,Guest Service Agent,540210010-F_O Wage,002051-Front Desk
+Canadian Niagara Hotels Inc,Lobby Ambassador,540410010-Elevator Op,002051-Front Desk
+Canadian Niagara Hotels Inc,Night Auditor,540310010-N_Audit Wa,002051-Front Desk
+Canadian Niagara Hotels Inc,Director of HSKP,530110010-H_Keep Sal,002052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson,550210010-Housemen,002052-Housekeeping
+Canadian Niagara Hotels Inc,Hskp Manager,530110010-H_Keep Sal,002052-Housekeeping
+Canadian Niagara Hotels Inc,Hskp Supervisor,541410010-Spvr-Hr-Hs,002052-Housekeeping
+Canadian Niagara Hotels Inc,Rm Att Lead Hand,541410010-Spvr-Hr-Hs,002052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att I,550110010-Rm Attds,002052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att II,550110010-Rm Attds,002052-Housekeeping
+Canadian Niagara Hotels Inc,Spa Co-ordinator,540010012-Hr No Un W,002053-Spa
+Canadian Niagara Hotels Inc,Spa Director,530010012-Spa Director,002053-Spa
+Canadian Niagara Hotels Inc,Director of Eng,530510083-Maint Sal,002078-Maintenance
+Canadian Niagara Hotels Inc,Engineering Mgr,530510083-Maint Sal,002078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mech Sr,553110083-Maint Wage,002078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mechanic I,553110083-Maint Wage,002078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mechanic II,553110083-Maint Wage,002078-Maintenance
+Canadian Niagara Hotels Inc,Maint Utility,553110083-Maint Wage,002078-Maintenance
+Canadian Niagara Hotels Inc,Painter,553110083-Maint Wage,002078-Maintenance
+Canadian Niagara Hotels Inc,Spec Proj Reno,553210083-Special Pr,002178-Special Projects
+Canadian Niagara Hotels Inc,Special Projects,530610083-Spc.Proj,002178-Special Projects
+Canadian Niagara Hotels Inc,Special Projects,553110083-Maint Wage,002178-Special Projects
+Canadian Niagara Hotels Inc,Store Room Atten,555010020-StoreRm Wa,002500-Receiving
+Canadian Niagara Hotels Inc,Bartender,554110020-Bartender,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Busperson,554910020-FV Busp,002501-Falls D_Room
+Canadian Niagara Hotels Inc,FOH Supervisor,520010020 - Supr Wage,002501-Falls D_Room
+Canadian Niagara Hotels Inc,General Manager,510010020-Mgmt Sal,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Host_Cashier,546010020 Guest,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Rest Admin.,520010020 - Supr Wage,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Restaurant Clean,553010020-Night Clea,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Room Service,554910019-FV Rm Ser,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Server,554410020-Servers,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Supervisor,520010020 - Supr Wage,002501-Falls D_Room
+Canadian Niagara Hotels Inc,Busperson,554910022-Buspersons,002502-Massimo FOH
+Canadian Niagara Hotels Inc,Fine Din Server,554410022-Servers,002502-Massimo FOH
+Canadian Niagara Hotels Inc,Host,546010022-Host Wgs,002502-Massimo FOH
+Canadian Niagara Hotels Inc,Restaurant Mgr,510010022-MngmtSal,002502-Massimo FOH
+Canadian Niagara Hotels Inc,Server,554410022-Servers,002502-Massimo FOH
+Canadian Niagara Hotels Inc,Cook I,551110022-Cooks,002503-Massimo BOH
+Canadian Niagara Hotels Inc,Demi-Chef de Partie,551110022-Cooks,002503-Massimo BOH
+Canadian Niagara Hotels Inc,Sous Chef,511510022-Sous Chef,002503-Massimo BOH
+Canadian Niagara Hotels Inc,Banq Porter,554310025-Porters,002504-Conf.Port
+Canadian Niagara Hotels Inc,Banquet Captain,554310025-Porters,002504-Conf.Port
+Canadian Niagara Hotels Inc,Steward,554610025-Dishwasher,002505-Conf.Stew
+Canadian Niagara Hotels Inc,Admin Assistant,510010025-Mgmt Sal,002506-Conf.F_House
+Canadian Niagara Hotels Inc,Admin Assistant,540010025-Hr No Un W,002506-Conf.F_House
+Canadian Niagara Hotels Inc,Banquet Manager,510010025-Mgmt Sal,002506-Conf.F_House
+Canadian Niagara Hotels Inc,Manager,510010025-Mgmt Sal,002506-Conf.F_House
+Canadian Niagara Hotels Inc,Server,554410025-Servers,002506-Conf.F_House
+Canadian Niagara Hotels Inc,Cook I,551110025-Cooks,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Cook II,551110025-Cooks,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Cook III,551210025-Pantry,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Cook III,551110025-Cooks,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Cook IV,551210025-Pantry,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Executive Chef,511010025-ExChefSal,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,Sous Chef,511510025-Sous Chef,002507-Conf.Kitch
+Canadian Niagara Hotels Inc,BOH Supervisor,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Chef de Cuisine,511510020-Sous Chef,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Cook I,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Cook II,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Cook III,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Cook IV,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Kitchen Supervisor,551110020-Cooks,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Sous Chef,511510020-Sous Chef,002508-Fall Cooks
+Canadian Niagara Hotels Inc,Steward,554610020-Dishwasher,002509-Fall Stewards
+Canadian Niagara Hotels Inc,Steward_Potwasher,554810020-Potwashers,002509-Fall Stewards
+Canadian Niagara Hotels Inc,Club Lounge Att,544210035-Club Lounge,002510-Sheraton Club Lounge
+Canadian Niagara Hotels Inc,VIP Club Serv Manager,544210035-Club Lounge,002510-Sheraton Club Lounge
+Canadian Niagara Hotels Inc,FRESHII Assoc,554510041-FreshiiAssoc,002520-Freshii Market
+Canadian Niagara Hotels Inc,MARKET Mgr,510010041-FreshiiMgr,002520-Freshii Market
+Canadian Niagara Hotels Inc,MARKET Sup,520010041-FreshiiSup,002520-Freshii Market
+Canadian Niagara Hotels Inc,SHER OUTLET Mgr,510010041-FreshiiMgr,002520-Freshii Market
+Canadian Niagara Hotels Inc,SWEET J BOH Prep,554510042-SJ Assoc,002530-Sweet Jesus
+Canadian Niagara Hotels Inc,SWEET J Cashier,554510042-SJ Assoc,002530-Sweet Jesus
+Canadian Niagara Hotels Inc,SWEET J Cone Art,554510042-SJ Assoc,002530-Sweet Jesus
+Canadian Niagara Hotels Inc,SWEET J Mgr,510010042-SJ Mgmt Sa,002530-Sweet Jesus
+Canadian Niagara Hotels Inc,SWEET J Sup,520010042-SJ Sup Wag,002530-Sweet Jesus
+Canadian Niagara Hotels Inc,Lobby Bar,554110030 LB Bart,002570 Sheraton Lobby Bar
+Canadian Niagara Hotels Inc,LOBBY BAR Sup,554110030 LB Bart,002570 Sheraton Lobby Bar
+Canadian Niagara Hotels Inc,Barista,554510045-Caf� Baris,002580-Starbucks
+Canadian Niagara Hotels Inc,Shift Supervisor,554510045-Caf� Baris,002580-Starbucks
+Canadian Niagara Hotels Inc,Supervisor,520010045-Sher Star Sup,002580-Starbucks
+Canadian Niagara Hotels Inc,Ass't GM S.O.T.F.,510010010-Mgmt Sal,002700-Admin
+Canadian Niagara Hotels Inc,Director of Conference Services,510010025-Mgmt Sal,002700-Admin
+Canadian Niagara Hotels Inc,VP OPS & GM SHER,530010075-SH-Admin,002700-Admin
+Canadian Niagara Hotels Inc,Bellperson,554011010-Bell Servi,004050-Bell Desk
+Canadian Niagara Hotels Inc,Asst. Front Office Mgr.,510011010-Mgmt Sal,004051-Front Desk
+Canadian Niagara Hotels Inc,Front Office Mgr,510011010-Mgmt Sal,004051-Front Desk
+Canadian Niagara Hotels Inc,General Manager,530011075-SH-Admin,004051-Front Desk
+Canadian Niagara Hotels Inc,Guest Serv Mgr,510011010-Mgmt Sal,004051-Front Desk
+Canadian Niagara Hotels Inc,Guest Service Agent,540211010-F_O Wage,004051-Front Desk
+Canadian Niagara Hotels Inc,Night Auditor,540311010-N_Audit Wa,004051-Front Desk
+Canadian Niagara Hotels Inc,Asst HSKP Mgr,530111010-H_Keep Sal,004052-Housekeeping
+Canadian Niagara Hotels Inc,Exec. Housekeeper,530111010-H_Keep Sal,004052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson,550211010-Housemen,004052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson LH,550211010-Housemen,004052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson_Nigh,550211010-Housemen,004052-Housekeeping
+Canadian Niagara Hotels Inc,HSKP Supervisor,541411010-Spvr-Hr-Hs,004052-Housekeeping
+Canadian Niagara Hotels Inc,Night Cleaner,550611010-Nite Clean,004052-Housekeeping
+Canadian Niagara Hotels Inc,Rm Att Lead Hand,550111010-Rm Attds,004052-Housekeeping
+Canadian Niagara Hotels Inc,Rm Att Lead Hand,550311010-Inspectres,004052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att I,550111010-Rm Attds,004052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att II,550111010-Rm Attds,004052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att II,550411010-Nite Maids,004052-Housekeeping
+Canadian Niagara Hotels Inc,Facility Maint Mgr,530511083-Maint Sal,004078-Maint
+Canadian Niagara Hotels Inc,Maint Lead Hand,553111083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Maint Mech Sr,553111083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Mechanic I,553111083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Mechanic II,553111083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Painter,553111083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Utility Maint,553122083-Maint Wage,004078-Maint
+Canadian Niagara Hotels Inc,Renovations,553211083-Special Pr,004178-Spc Prj
+Canadian Niagara Hotels Inc,Receiver,530411020-StoreRm Sa,004500-Receive
+Canadian Niagara Hotels Inc,Store Room Att,555011020-StoreRm Wg RBR,004500-Receive
+Canadian Niagara Hotels Inc,Asst Dining Rm Mgr,510011020-Mgmt Sal,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Bartender,554111020-Bartender,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Busperson,554911020-Bus Person,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Director of F&B,510011020-Mgmt Sal,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,FOH Supervisor,520011020- Supr Wage,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Host,546011020-Host Wage,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Manager,510011020-Mgmt Sal,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Restaurant Super,520011020- Supr Wage,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Server,554411020-Servers,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Supervisor,520011020- Supr Wage,004501-Rainbow D_ Room
+Canadian Niagara Hotels Inc,Server_Sommelier,554411020-Servers,004502 Crowne Dining Room
+Canadian Niagara Hotels Inc,Banquet Captain,554311025-Porters,004506-Banquets
+Canadian Niagara Hotels Inc,Porter,554311025-Porters,004506-Banquets
+Canadian Niagara Hotels Inc,Server,554411025-Servers,004506-Banquets
+Canadian Niagara Hotels Inc,Chef de Partie,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Commis Chef,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Cook I,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Cook II,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Cook III,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Cook III,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Cook IV,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Crowne Sous Chef,511511025-Sous Chef,004508-Cooks
+Canadian Niagara Hotels Inc,Demi-Chef de Partie,551111020-Cooks,004508-Cooks
+Canadian Niagara Hotels Inc,Executive Chef,511011020-Exec Chef Sal,004508-Cooks
+Canadian Niagara Hotels Inc,Sous Chef,511511020-Sous Chef,004508-Cooks
+Canadian Niagara Hotels Inc,Steward,554611020-Dishwasher,004509-Stewards
+Canadian Niagara Hotels Inc,Barista,554511045-Caf� Baris,004580-Starbucks
+Canadian Niagara Hotels Inc,Crowne Starbucks Mgr.,530011045-Sal,004580-Starbucks
+Canadian Niagara Hotels Inc,Supervisor,554511045-Caf� Baris,004580-Starbucks
+Canadian Niagara Hotels Inc,Aquatics Mgr,510045060-Mgmt Sal,005001-Aquatics
+Canadian Niagara Hotels Inc,Aquatics Sup,510045060-Mgmt Sal,005001-Aquatics
+Canadian Niagara Hotels Inc,Lifeguard,540845060-Life Guard,005001-Aquatics
+Canadian Niagara Hotels Inc,Slide Attendant,540545060-Attd Wage,005001-Aquatics
+Canadian Niagara Hotels Inc,Supervisor,520045060-Spvr Wage,005001-Aquatics
+Canadian Niagara Hotels Inc,Supervisor,540845060-Life Guard,005001-Aquatics
+Canadian Niagara Hotels Inc,Asst Manager,510045060-Mgmt Sal,005051-Guest Services
+Canadian Niagara Hotels Inc,Guest Serv Mgr,510045060-Mgmt Sal,005051-Guest Services
+Canadian Niagara Hotels Inc,Guest Serv Sup,545945060-Guest Srvc,005051-Guest Services
+Canadian Niagara Hotels Inc,Guest Service Agent,545945060-Guest Srvc,005051-Guest Services
+Canadian Niagara Hotels Inc,Cleaner,553045060-Cleaning W,005054-Cleaning
+Canadian Niagara Hotels Inc,Cleaner Lead Hand,553045060-Cleaning W,005054-Cleaning
+Canadian Niagara Hotels Inc,Cleaning Sup,553045060-Cleaning W,005054-Cleaning
+Canadian Niagara Hotels Inc,Asst.Maint Mgr,510045083-Mgmt Sal,005078-Maintenance
+Canadian Niagara Hotels Inc,Cas Facil Maint,510045083-Mgmt Sal,005078-Maintenance
+Canadian Niagara Hotels Inc,Lead Hand,540645083-Maint Wage,005078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mechanic,540645083-Maint Wage,005078-Maintenance
+Canadian Niagara Hotels Inc,WP Maint Mgr,510045083-Mgmt Sal,005078-Maintenance
+Canadian Niagara Hotels Inc,WP Maintenance,540645083-Maint Wage,005078-Maintenance
+Canadian Niagara Hotels Inc,Asst Manager,510045020-Mgmt Sal,005501-F & B
+Canadian Niagara Hotels Inc,F&B Attendant,545245020-FB Counter,005501-F & B
+Canadian Niagara Hotels Inc,F&B Supervisor,545245020-FB Counter,005501-F & B
+Canadian Niagara Hotels Inc,General Manager,510045060-Mgmt Sal,005700-Administration
+Canadian Niagara Hotels Inc,Sales Manager,510045060-Mgmt Sal,005700-Administration
+Canadian Niagara Hotels Inc,WP Sales Admin,2658-HRC-Maint & Rep,005700-Administration
+Canadian Niagara Hotels Inc,General Manager,510012010-Mgmt Sal,006051-Front Desk
+Canadian Niagara Hotels Inc,Guest Serv Mgr,510012010-Mgmt Sal,006051-Front Desk
+Canadian Niagara Hotels Inc,Guest Serv Sup,540212010-F_O Wage,006051-Front Desk
+Canadian Niagara Hotels Inc,Guest Service Agent,540212010-F_O Wage,006051-Front Desk
+Canadian Niagara Hotels Inc,Night Auditor,540312010-N_Audit Wa,006051-Front Desk
+Canadian Niagara Hotels Inc,Peacekeeper,545912010-Guest Serv,006051-Front Desk
+Canadian Niagara Hotels Inc,Exec. Housekeeper,530112010-H_Keep Sal,006052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson,550212010-Housemen,006052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson LH,550212010-Housemen,006052-Housekeeping
+Canadian Niagara Hotels Inc,Houseperson_Nigh,550212010-Housemen,006052-Housekeeping
+Canadian Niagara Hotels Inc,Hskp Supervisor,530112010-H_Keep Sal,006052-Housekeeping
+Canadian Niagara Hotels Inc,Room Att I,550112010-Rm Attds,006052-Housekeeping
+Canadian Niagara Hotels Inc,Supervisor,541412010 Skyline GSA SUP,006052-Housekeeping
+Canadian Niagara Hotels Inc,Engineering Mgr,530512083-Maint Sal,006078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mech I,553112083-Maint Wage,006078-Maintenance
+Canadian Niagara Hotels Inc,Maint Mech II,553112083-Maint Wage,006078-Maintenance
+Canadian Niagara Hotels Inc,Maint Utility,553112083-Maint Wage,006078-Maintenance
+Canadian Niagara Hotels Inc,Accts Payable,540060077-Hr No Un W,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Accts Receivable,540060077-Hr No Un W,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Accts Receivable,530060077-Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Admin Assistant,530060077-Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Asst Controller,530060077-Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Chief Financial Officer,500060075-Exec.Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Chief Op Officer,500060075-Exec.Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Controller,530060077-Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Corp Accountant,540060077-Hr No Un W,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Director of Operations,500060075-Exec.Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Financial Analyist,540060077-Hr No Un W,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Sr Acct Treasure,530060077-Sal,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Sr. Corporate Ac,540060077-Hr No Un W,007000-Finance_Accounting
+Canadian Niagara Hotels Inc,Cashroom Clerk,577060077 Cash Room Wages,007002-Cashroom
+Canadian Niagara Hotels Inc,PC Technician,530060074-Sys Sal,007004 IT systems
+Canadian Niagara Hotels Inc,Sr Network Admin,530060074-Sys Sal,007004 IT systems
+Canadian Niagara Hotels Inc,Sys Support Tech,530060074-Sys Sal,007004 IT systems
+Canadian Niagara Hotels Inc,Systems Manager,530060074-Sys Sal,007004 IT systems
+Canadian Niagara Hotels Inc,Dir of Purchasing,530060073-Purchasing,007050-Purchasing
+Canadian Niagara Hotels Inc,Mgr. Capital Proj.,530060073-Purchasing,007050-Purchasing
+Canadian Niagara Hotels Inc,Purch Analyst,530060073-Purchasing,007050-Purchasing
+Canadian Niagara Hotels Inc,Purchasing Mgr,530060073-Purchasing,007050-Purchasing
+Canadian Niagara Hotels Inc,Guest Srv Oper.,544070014-Guest Serv Op,007054-Switchboard
+Canadian Niagara Hotels Inc,Asst Manager,530050065-Sal,007060-Parking
+Canadian Niagara Hotels Inc,Cleaner,540650065-Maint Park,007060-Parking
+Canadian Niagara Hotels Inc,Elevator Operator,540445060-WP ELEV OP,007060-Parking
+Canadian Niagara Hotels Inc,Maintenance Sup,540650065-Maint Park,007060-Parking
+Canadian Niagara Hotels Inc,Parking Attend,557050065-Park Sec,007060-Parking
+Canadian Niagara Hotels Inc,Parking Manager,530050065-Sal,007060-Parking
+Canadian Niagara Hotels Inc,Parking Supervisor,545850065-Spvr Wage,007060-Parking
+Canadian Niagara Hotels Inc,Manager,530860078-Sec. Sal,007068-Security
+Canadian Niagara Hotels Inc,Security Officer,540060078-Hotel Secu,007068-Security
+Canadian Niagara Hotels Inc,Supervisor,530860078-Sec. Sal,007068-Security
+Canadian Niagara Hotels Inc,Special Proj Con,540060075-Hrly Non Union,007078-Special Projects
+Canadian Niagara Hotels Inc,ADMINIST,500060075-Exec.Sal,007100-Owners
+Canadian Niagara Hotels Inc,MANAGEMENT,500060075-Exec.Sal,007100-Owners
+Canadian Niagara Hotels Inc,PRES,500060075-Exec.Sal,007100-Owners
+Canadian Niagara Hotels Inc,VICE PRES,500060075-Exec.Sal,007100-Owners
+Canadian Niagara Hotels Inc,VP SALES,500060075-Exec.Sal,007100-Owners
+Canadian Niagara Hotels Inc,Asst VP of HR,530060076-HR Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Dir. Talent Aquisitions,530060076-HR Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,HR Admin,530060076-HR Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,HR Generalist,530060076-HR Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,HR Manager,530060076-HR Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,HR_Payroll Mgr,531060079-Pyrl Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Payroll Admin,541060079-Payroll Wa,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Payroll Admin,540060079-Hrly Wages Payroll,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Payroll Admin,531060079-Pyrl Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Payroll Admin Senior,531060079-Pyrl Sal,007200-HR_Payroll
+Canadian Niagara Hotels Inc,Admin Assistant,530010075-SH-Admin,007201-HR Employees on LTD
+Canadian Niagara Hotels Inc,Sales Manager,530080087-Sal,007201-HR Employees on LTD
+Canadian Niagara Hotels Inc,Account Director,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Admin Assistant,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Asst Dir of Sales,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Catering Sales Mgr,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Dir of Sales,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Dir.Int'l Tour&Trvl,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Exec.Admin.Asst,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Group Housing Re,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Group Res Agent,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Group Res Agent,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Group Sales,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Group Sales Co-ord,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Grp Housing Co Ordin,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Grp Ops Manager,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Grp Res Co-or,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,New Business Dev,549080087 NBD Wages,007300-Sales
+Canadian Niagara Hotels Inc,Sales Admin,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Sales Co Ordinator,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Sales Group Res,540080087-Hr No Un W,007300-Sales
+Canadian Niagara Hotels Inc,Sales Manager,530080087-Sal,007300-Sales
+Canadian Niagara Hotels Inc,Content & Soc. M,540080086-Hr No Un W,007301-Marketing
+Canadian Niagara Hotels Inc,Dig Mrkt & Web Dev Mgr,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Digi Mrkt Specialist,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Graph Design Mgr.,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Graphic Designer,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Market Co-ordin,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Marketing,540080086-Hr No Un W,007301-Marketing
+Canadian Niagara Hotels Inc,Marketing_Media Buyer,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Mrktg Prod Coord,540080086-Hr No Un W,007301-Marketing
+Canadian Niagara Hotels Inc,VP Mktg Bus Dev,530080086-Sal,007301-Marketing
+Canadian Niagara Hotels Inc,Web Developer,540080086-Hr No Un W,007301-Marketing
+Canadian Niagara Hotels Inc,Web Developer Jr,540080086-Hr No Un W,007301-Marketing
+Canadian Niagara Hotels Inc,Dir of Revenue,531060080 Revenue Salaries,007400-Revenue Mgmt
+Canadian Niagara Hotels Inc,Revenue Analyst,531060080 Revenue Salaries,007400-Revenue Mgmt
+Canadian Niagara Hotels Inc,Revenue Mgr,531060080 Revenue Salaries,007400-Revenue Mgmt
+Canadian Niagara Hotels Inc,Revenue Mgr.,541060080 Rev Mgmt,007400-Revenue Mgmt
+Canadian Niagara Hotels Inc,Admin Assistant,543170084-Res Admin,007401-Reservations
+Canadian Niagara Hotels Inc,Dir Reservations,530070084-Sal,007401-Reservations
+Canadian Niagara Hotels Inc,Int Res Agent,543270084-Internet R,007401-Reservations
+Canadian Niagara Hotels Inc,Lead Reserv Agent,543770084-MFV ResLAg,007401-Reservations
+Canadian Niagara Hotels Inc,Res Analyst,541060080 Rev Mgmt,007401-Reservations
+Canadian Niagara Hotels Inc,Res Internet Agent,543270084-Internet R,007401-Reservations
+Canadian Niagara Hotels Inc,Res Lead Agent,543570084-Res Lead A,007401-Reservations
+Canadian Niagara Hotels Inc,Res Sls Agt-Marr,543870084-MFV ResAge,007401-Reservations
+Canadian Niagara Hotels Inc,Reserv Ld Ag MFV,543770084-MFV ResLAg,007401-Reservations
+Canadian Niagara Hotels Inc,Reservation Agent,543370084-Res Sales,007401-Reservations
+Canadian Niagara Hotels Inc,Supervisor,520070084 Sup Hrly Res,007401-Reservations
+Canadian Niagara Hotels Inc,Retail GM,510035055-MLS Mgmt Wages,008000-Retail Outlets
+Canadian Niagara Hotels Inc,GCG Sales Assoc,540034055-Hrly Ret F,008010-Great Canadian Gifts
+Canadian Niagara Hotels Inc,GCG Stock Lead,547034055-GCG HR Sup,008010-Great Canadian Gifts
+Canadian Niagara Hotels Inc,GCG Supervisor,520034055-GCG Super Wages,008010-Great Canadian Gifts
+Canadian Niagara Hotels Inc,GCG-Stock Assoc.,544234055 GCG Stock,008010-Great Canadian Gifts
+Canadian Niagara Hotels Inc,Supervisor,520034055-GCG Super Wages,008010-Great Canadian Gifts
+Canadian Niagara Hotels Inc,MLS-Key Holder,530035055-MLS Key,008030-Maple Leaf Gifts
+Canadian Niagara Hotels Inc,MLS-Sales Assoc.,540035055-Hr No Un W,008030-Maple Leaf Gifts
+Canadian Niagara Hotels Inc,Supervisor,520035055-MLS Sup Wages,008030-Maple Leaf Gifts
+Canadian Niagara Hotels Inc,Assistant GM,510030055-Mgmt Sal,008040-Hershey
+Canadian Niagara Hotels Inc,Hershey Baker,540030055-Hr No Un W,008040-Hershey
+Canadian Niagara Hotels Inc,Hersheys GM,510030055-Mgmt Sal,008040-Hershey
+Canadian Niagara Hotels Inc,Sales Associate,540030055-Hr No Un W,008040-Hershey
+Canadian Niagara Hotels Inc,Supervisor,520030055-Spvr Wage,008040-Hershey
+Canadian Niagara Hotels Inc,Attractions Mgr,510043060 Mgmt Adm Sal,009000-Attractions Administration
+Canadian Niagara Hotels Inc,Games Mgr.,530543061-Adv.Games,009000-Attractions Administration
+Canadian Niagara Hotels Inc,Operations Mgr.,510043060 Mgmt Adm Sal,009000-Attractions Administration
+Canadian Niagara Hotels Inc,Cleaner,554610025-Dishwasher,009001-Attractions - Ride Ops & Couponers
+Canadian Niagara Hotels Inc,Supervisor,540043062-Ride Opera,009001-Attractions - Ride Ops & Couponers
+Canadian Niagara Hotels Inc,Supervisor,520040060 Supervisor Wages,009001-Attractions - Ride Ops & Couponers
+Canadian Niagara Hotels Inc,Supervisor,540043060-Hr Wage,009001-Attractions - Ride Ops & Couponers
+Canadian Niagara Hotels Inc,Maintenance,530540060-Salary,009002-Attractions - Maintenance
+Canadian Niagara Hotels Inc,Maintenance,540643060 Maint Wages,009002-Attractions - Maintenance
+Canadian Niagara Hotels Inc,Ride Maintenance,540640060-Maint Wage,009002-Attractions - Maintenance
+Canadian Niagara Hotels Inc,Cashier,554243060 Cashier Wages,009007-Cashiers and Supervisors
+Canadian Niagara Hotels Inc,Redemption Assoc,540043056-Hr Wage,009007-Cashiers and Supervisors
+Canadian Niagara Hotels Inc,Supervisor,540043060-Hr Wage,009007-Cashiers and Supervisors
+Canadian Niagara Hotels Inc,Game Technician,540043061-Hr Wge Att,009008-Game Techs and Ride Operators
+Canadian Niagara Hotels Inc,Ride Operator,540043062-Ride Opera,009008-Game Techs and Ride Operators
+,,,
+Jungle Restaurant Niagara Ltd,Retail Associate,550026055-RFC Retail,000200-Merch.
+Jungle Restaurant Niagara Ltd,Retail Manager,510026055-Mgmt Wages,000200-Merch.
+Jungle Restaurant Niagara Ltd,FOH Mgr,520026020-Spvr Wage,000300-F_Hse Mgmt
+Jungle Restaurant Niagara Ltd,Restaurant Mgr,510026020-Mgmt Wage,000300-F_Hse Mgmt
+Jungle Restaurant Niagara Ltd,Restaurant Super,520026020-Spvr Wage,000300-F_Hse Mgmt
+Jungle Restaurant Niagara Ltd,Asst Manager,510526020-BOH Mgr RF,000351-B_Hse Mgmt
+Jungle Restaurant Niagara Ltd,Kitchen Supervisor,520526020-BOH Sup RF,000351-B_Hse Mgmt
+Jungle Restaurant Niagara Ltd,RFC Kit Mgr,510526020-BOH Mgr RF,000351-B_Hse Mgmt
+Jungle Restaurant Niagara Ltd,"Leadhand , Prep",551026020-Prod RFC,000500-Cooks
+Jungle Restaurant Niagara Ltd,Line Cook Entry,551126020-Cooks,000500-Cooks
+Jungle Restaurant Niagara Ltd,Line Supervisor,551126020-Cooks,000500-Cooks
+Jungle Restaurant Niagara Ltd,Prep Cook Entry,551026020-Prod RFC,000500-Cooks
+Jungle Restaurant Niagara Ltd,Prep Cook Lead,551026020-Prod RFC,000500-Cooks
+Jungle Restaurant Niagara Ltd,Prep Cook Multi,551026020-Prod RFC,000500-Cooks
+Jungle Restaurant Niagara Ltd,Dishwasher,554626020-Dishwasher,000510-Dishwashers
+Jungle Restaurant Niagara Ltd,Dishwasher,554626020-Dishwasher,000510-Dishwashers
+Jungle Restaurant Niagara Ltd,Server,554426020-Servers,000530-Servers
+Jungle Restaurant Niagara Ltd,Busperson,554926020-Buspersons,000540-Bussers
+Jungle Restaurant Niagara Ltd,Receiver,555026020-StoreRm Wa,000550-Receiving
+Jungle Restaurant Niagara Ltd,Host,546026020-Seat_Greet,000560-Host_Hostess
+Jungle Restaurant Niagara Ltd,Fish Curator,553126083-Maint Wage,000600-Maint.
+Jungle Restaurant Niagara Ltd,Maintenance,553126083-Maint Wage,000600-Maint.
+Jungle Restaurant Niagara Ltd,Maintenance Mgr,553126083-Maint Wage,000600-Maint.
+Jungle Restaurant Niagara Ltd,Night Cleaner,554726020-Night Clea,000600-Maint.
+Jungle Restaurant Niagara Ltd,Admin Assistant,530026075-Admin Sal,005700-Administration
+Jungle Restaurant Niagara Ltd,RFC GM,500026075-Exec.Sal,005700-Administration
+,,,
+Music Legends Limited,Merch Mgr,510020055-Mgmt Wage,000200-Merch.
+Music Legends Limited,Retail Associate,550020055-HRC Retail,000200-Merch.
+Music Legends Limited,Retail Manager,520020055-Spvr Wage,000200-Merch.
+Music Legends Limited,Sales Associate,550020055-HRC Retail,000200-Merch.
+Music Legends Limited,Spin to Win,550020055-HRC Retail,000200-Merch.
+Music Legends Limited,FOH Supervisor,520020020-Spvr Wage,000300-F_Hse Mgmt
+Music Legends Limited,HRC FOH Mgr.,520020020-Spvr Wage,000300-F_Hse Mgmt
+Music Legends Limited,Restaurant Super,520020020-Spvr Wage,000300-F_Hse Mgmt
+Music Legends Limited,BOH Supervisor,520520020-BOH Sup HR,000351-B_Hse Mgmt
+Music Legends Limited,Kitchen Manager,510520020-BOH Mgr HR,000351-B_Hse Mgmt
+Music Legends Limited,Kitchen Supervisor,520520020-BOH Sup HR,000351-B_Hse Mgmt
+Music Legends Limited,Lead Hand,520520020-BOH Sup HR,000351-B_Hse Mgmt
+Music Legends Limited,Entry Line Cook,551120020-Cooks,000500-Cooks
+Music Legends Limited,Prep Cook Entry,551020020-Prod HRC c,000500-Cooks
+Music Legends Limited,Prep Cook Lead,551020020-Prod HRC c,000500-Cooks
+Music Legends Limited,Prep Cook Multi,551020020-Prod HRC c,000500-Cooks
+Music Legends Limited,Dishwasher,554620020-Steward,000510-Dishwashers
+Music Legends Limited,Bartender,554120020-Bartenders,000520-Bartenders
+Music Legends Limited,Server,554420020-Servers HR,000530-Servers
+Music Legends Limited,Busperson,554920020-Buspersons,000540-Bussers
+Music Legends Limited,Receiver,555020020-StoreRm Wa,000550-Receiving
+Music Legends Limited,Host,546020020-Greeter HR,000560-Host_Hostess
+Music Legends Limited,Maintenance Mgr,553120083-Maint Wage,000600-Maint.
+Music Legends Limited,Night Cleaner,554720020-Night Clea,000750-Cleaners
+Music Legends Limited,Assistant GM,510020020-Mgmt Wage,005700-Administration
+Music Legends Limited,General Manager,500020075-Exec.Sal.,005700-Administration
+Music Legends Limited,HRC GM,500020075-Exec.Sal.,005700-Administration
+,,,
+Niagara Resorts Inc.,Front Office Mgr,510013010-Mgmt Sal,001600-Front Desk
+Niagara Resorts Inc.,Guest Service Agent,540213010-F_O Wage,001600-Front Desk
+Niagara Resorts Inc.,Night Auditor,540313010-N_Audit Wa,001600-Front Desk
+Niagara Resorts Inc.,Senior Night Audit,540313010-N_Audit Wa,001600-Front Desk
+Niagara Resorts Inc.,Supervisor,540213010-F_O Wage,001600-Front Desk
+Niagara Resorts Inc.,Exec. Housekeeper,530113010-H_Keep Sal,001700-H_Keep
+Niagara Resorts Inc.,Houseperson,550213010-Housemen W,001700-H_Keep
+Niagara Resorts Inc.,Rm Att Lead Hand,550113010 Rm Att Ham,001700-H_Keep
+Niagara Resorts Inc.,Room Att,550113010 Rm Att Ham,001700-H_Keep
+Niagara Resorts Inc.,Supervisor,541413010 Ham Hsk Su,001700-H_Keep
+Niagara Resorts Inc.,Host,544213020-Cashiers,002600-Cafe
+Niagara Resorts Inc.,Lead Hand,544213020-Cashiers,002600-Cafe
+Niagara Resorts Inc.,General Manager,510013075-Exec. Sal,005700-Administration
+Niagara Resorts Inc.,PROJECT,510013075-Exec. Sal,005700-Administration
+Niagara Resorts Inc.,Res Analyst,543413010-Res Analyst,005700-Administration
+Niagara Resorts Inc.,Engineering Spvr,530513083-Maint Sal,005800-Maintenance
+Niagara Resorts Inc.,Maint Mechanic,553113083-Maint Wage,005800-Maintenance
+Niagara Resorts Inc.,Maint Mechanic II,553113083-Maint Wage,005800-Maintenance
+,,,
+1346674 Ontario Ltd (Perkins),FOH Supervisor,520025020-Spvr Wage,000300-F_Hse Mgmt
+1346674 Ontario Ltd (Perkins),General Manager,500025075-Exec.Sal,000300-F_Hse Mgmt
+1346674 Ontario Ltd (Perkins),Restaurant Mgr,510025020-Mgmt Wage,000300-F_Hse Mgmt
+1346674 Ontario Ltd (Perkins),Expeditor,551025020-Prod Perks,000500-Cooks
+1346674 Ontario Ltd (Perkins),Line Cook,551125020-Cooks,000500-Cooks
+1346674 Ontario Ltd (Perkins),Prep Cook,551025020-Prod Perks,000500-Cooks
+1346674 Ontario Ltd (Perkins),Dishwasher,554625020-Dishwasher,000510-Dishwashers
+1346674 Ontario Ltd (Perkins),Server,554425020-Servers,000530-Servers
+1346674 Ontario Ltd (Perkins),Host_Cashier,546025020-Seater_Gre,000560-Host_Hostess
+,,,
+525230 Ontario Ltd (Terrace),TFC Asst Mgr,510021020-Mgmt Wage,000100-TFC Mgmt
+525230 Ontario Ltd (Terrace),Maintenance Sup,545021020-Rest.Wage,007500-TFC Attendants
+525230 Ontario Ltd (Terrace),Supervisor,520021020-Spvr Wage,007500-TFC Attendants
+525230 Ontario Ltd (Terrace),TFC Attendant,545021020-Rest.Wage,007500-TFC Attendants
+525230 Ontario Ltd (Terrace),TFC Super,520021020-Spvr Wage,007500-TFC Attendants
+525230 Ontario Ltd (Terrace),Barista,554521240-Cafe Baris,007580-Fallsview Starbucks
+525230 Ontario Ltd (Terrace),FV STAR Mgr,510021240-Mgr.FV Starbucks,007580-Fallsview Starbucks
+525230 Ontario Ltd (Terrace),Supervisor,554521240-Cafe Baris,007580-Fallsview Starbucks
+525230 Ontario Ltd (Terrace),Barista,554521440-Cafe Baris,007581-Centre Street Starbucks
+525230 Ontario Ltd (Terrace),Starbucks Mgr.,510021440-Barista Mgmt Sal,007581-Centre Street Starbucks
+525230 Ontario Ltd (Terrace),Supervisor,554521440-Cafe Baris,007581-Centre Street Starbucks
+,,,
+2253100 Ontario Inc Marriott Hotel & Spa,Bell Dispatch,554017010 - MFV Bell Service,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Bellperson,554017010 - MFV Bell Service,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,F_Service Mngr,530217010 - Bell Salar,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Midnight Valet,556017065 - MFV Valet Attendant,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Valet Attendant,556017065 - MFV Valet Attendant,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Valet Attendant LH,556017065 - MFV Valet Attendant,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Valet Dispatch,556017065 - MFV Valet Attendant,102050-Bell Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Asst. Front Office Mgr.,530017010 - Front Desk,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,At Your Service,530317010 - Wages-AYS,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Duty Manager,540217010 - MFV Front Desk,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,FD Guest Service Agent,540217010 - MFV Front Desk,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Front Office Mgr,530017010 - MFV Front Desk,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Night Audit Manager,540217010 - MFV Front Desk,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Night Auditor,540317010 - MFV Night Audit,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Sr. Red Coat Concierge,530017025 - Events Coordinator MARR,102051-Front Desk MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Director of Hskp,530117010 - Hskp Salary MARR,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Houseperson,550217010 - MFV Houseperson,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Hskp Supervisor,541417010 - MFV Mgmt-Hr-Hs,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Laundry Attend,542017016 - MFV Laundry,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Laundry Dropper,550217010 - MFV Houseperson,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Laundry Lead,542017016 - MFV Laundry,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Laundry Loader,542017016 - MFV Laundry,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Lead Hskp Sup,541417010 - MFV Mgmt-Hr-Hs,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Lobby_Pool Attendant,550517010 - Lobby_Pool Attendant,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Night Cleaner,550617010 - MFV Nite Cleaner,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Night Maid,550417010 - Night Maids MARR,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Room Attendant,550117010 - MFV Room Attendant,102052-Housekeeping MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Aest_Spa Trainer,552117012 - MFV Esthetician,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Aesthetician,552117012 - MFV Esthetician,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Asst. Spa Director,520017012 - Spa Lead,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Reception Sup,552217012 - MFV-Spa Receptionist,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,RMT,552017012 - MFV RMT,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Spa Attendant,553017012 - MFV SPA Cleaner,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Spa Director,530017012 -Spa Salary,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Spa Receptionist,552217012 - MFV-Spa Receptionist,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Spa Supervisor,552117012 - MFV Esthetician,102053-Spa MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Dir Engineering,530517083 - Management Salaries,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Lead MRT,553117083 - MFV Maint Wage,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Lead S Maint,553117083 - MFV Maint Wage,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Mech Eng Sup,553117083 - MFV Maint Wage,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,MRT,553117083 - MFV Maint Wage,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Utility Engineer,553117083 - MFV Maint Wage,102078-Maintenance MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Receiver,555017020 - MFV Storeroom,102500-Receiving MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Receiving Sup,555017020 - MFV Storeroom,102500-Receiving MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Bartender Lounge,554117030 - MFV Bartender Lounge,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast Busser,555317020 - MFV Buspersons-Brkfast,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast Hostess,545917020 - MFV Host - Brkfast,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast Server,554217020 - MFV Servers - Breakfast,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Concierge Attendant,545917020 - MFV Host - Brkfast,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,F&B Manager,510017020 - Mgmt Sal,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,F&B Supervisor,520017020 - Terr Hrly Sup,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Host,545817020 - MFV Host,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Host,545917020 - MFV Host - Brkfast,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Server,554417020 - MFV Servers,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,TER Bartender,554117020 - MFV Bartender-Terrapin,102501-Terrapin D_ Room MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Room Service,555117021 - MFV Room Service,102502-Room Service MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Room Service LH,555117021 - MFV Room Service,102502-Room Service MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Porter,554317025 - MFV Bqt Porters,102506-Banquets MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Red Coat Concierge,554317025 - MFV Bqt Porters,102506-Banquets MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast Cook,551217020 - MFV Cooks - Breakfast,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast Cook II,551217020 - MFV Cooks - Breakfast,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Breakfast K. Mgr.,511617020 - SousChef - Brkfast,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Concierge Attendant,544217035 - MFV Concierg Loun,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Cook I,551117020 - MFV Cooks,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Cook II,551117020 - MFV Cooks,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Cook III,551217020 - MFV Cooks - Breakfast,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Cook III,551117020 - MFV Cooks,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Cook III,551217020 - MFV Cooks - Breakfast,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Dir Of F&B,510017020 - Mgmt Sal,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Exec Sous Chef,511517020 - Sous Chef,102508-Cooks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Dishwasher,554617020 - MFV Dishwasher,102509-Dishwashers MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Lead Dishwasher,554717020 - MFV Dishwashers- Brkfast,102509-Dishwashers MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Barista,554517045 - MFV Cafe Barista,102580-Starbucks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Supervisor,554517045 - MFV Cafe Barista,102580-Starbucks MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Assistant GM,501017075 - Secretarial MARR,102700-Admin MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Executive Admin,501017075 - Secretarial MARR,102700-Admin MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Revenue Analyst,830017010 - MFV Revenue Analyst,102700-Admin MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Account Receivable,540017077 - MFV-Accounting,107000-Accounting MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Security LH,540017078 - Security W,107068-Security MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,HR Admin Asst,540017076 - Hourly Non,107200-HR MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,HR Manager,520017076 - HR Manager,107200-HR MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Events & Sales Co-ordinator,530017025 - Events Coordinator MARR,107300-Catering
+2253100 Ontario Inc Marriott Hotel & Spa,Events Manager,530017025 - Events Coordinator MARR,107300-Catering
+2253100 Ontario Inc Marriott Hotel & Spa,Web Programmer_Coordinator,540017086 - Hourly Wag,107301-Marketing MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Asst Res Sup,543517084 - Res L_Agen,107401-Reservation MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Res Lead Agent,543517084 - Res L_Agen,107401-Reservation MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Reservation Agent,543117084 - Res Admin,107401-Reservation MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Reservation Supervisor,543517084 - Res L_Agen,107401-Reservation MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Gift Store Mngr,520017055 - Supervisor,108050-Gift Shop MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Retail Associate,540017055 - Hourly Non,108050-Gift Shop MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Retail Supervisor,540017055 - Hourly Non,108050-Gift Shop MARRIOTT
+2253100 Ontario Inc Marriott Hotel & Spa,Retail Asso GW,540018055 - RetAssocGW,108051-MFV RetailGW
+,,,
+2088274 Ontario Inc Magnificent Tours,Director of Operations,545855015 - Wages Management,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,General Manager,545855015 - Wages Management,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Sales Agent,575455015 - Tour Agents,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Tour Agent,575455015 - Tour Agents,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Tour Assistant,575755015 - Tour Clerks,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Tour Driver,575555015 - Tour Drivers,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Tour Driver,575517010 - MFV Tour Driver,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Tour Driver Sup,575555015 - Tour Drivers,112050-Tours Magnificent Tours
+2088274 Ontario Inc Magnificent Tours,Wine Tour_Group,575855015 - WineTour_Group,112050-Tours Magnificent Tours
+,,,
+Niagara Brewing Company,NBC Salary Mgmt.,510029020-NBC FOH Mgn't Wages,000300-F_Hse Mgmt
+Niagara Brewing Company,NBC Supervisor,520029020-NBC FOH Sup Wages,000300-F_Hse Mgmt
+Niagara Brewing Company,BREW BOH Mgr.,510029020-NBC FOH Mgn't Wages,000351-B_Hse Mgmt
+Niagara Brewing Company,Brewmaster,510029211-NBC Whl Sa,000400-NBC
+Niagara Brewing Company,NBC Whole Pkg,542029211-WhlBOHPack,000400-NBC
+Niagara Brewing Company,Wholesale Brew,541529211-WhlBOHBrew,000400-NBC
+Niagara Brewing Company,Wholesale Driver,540629211 NBC-Wholesale Driver,000400-NBC
+Niagara Brewing Company,Lead Cook,551129020-NBC Line Cooks,000500-Cooks
+Niagara Brewing Company,Lead Prep Cook,551129020-NBC Line Cooks,000500-Cooks
+Niagara Brewing Company,NBC Cooks,551129020-NBC Line Cooks,000500-Cooks
+Niagara Brewing Company,Dishwasher,554629020-NBC Dishwashers,000510-Dishwashers
+Niagara Brewing Company,Bartender,554129020-NBC Bartenders,000520-Bartenders
+Niagara Brewing Company,NBC Bartender,554129020-NBC Bartenders,000520-Bartenders
+Niagara Brewing Company,NBC Server,554429020-NBC Server,000530-Servers
+Niagara Brewing Company,NBC Host_Retail,546029020-NBC Seater_Greeter,000560-Host_Hostess
+Niagara Brewing Company,NBC Hostess,546029020-NBC Seater_Greeter,000560-Host_Hostess
+Niagara Brewing Company,Maintenance,553129083-NBC Maint Wages,000600-Maint.
+Niagara Brewing Company,Night Cleaner,554729020-NBC Night Cleaners,000750-Cleaners
+Niagara Brewing Company,General Manager,510010042-SJ Mgmt Sa,005700-Administration
+,,,
+Resort On The Falls Inc,Bell Cpt FT,540118010-Concierge Wages,122050 - Bellmen
+Resort On The Falls Inc,Bell_Doorman,540118010-Concierge Wages,122050 - Bellmen
+Resort On The Falls Inc,Asst Front Mgr,510018010-Mgmt Salaries,122051 - Front Office
+Resort On The Falls Inc,FO Manager FT,530018010-Salaries,122051 - Front Office
+Resort On The Falls Inc,FO Manager FT,510018010-Mgmt Salaries,122051 - Front Office
+Resort On The Falls Inc,Front Office Sup,530018010-Salaries,122051 - Front Office
+Resort On The Falls Inc,GSA_AYS FT,540218010-Front Office Wages,122051 - Front Office
+Resort On The Falls Inc,GSA_SWB FT,530318010-AYS,122051 - Front Office
+Resort On The Falls Inc,Guest Ser Ag FT,540218010-Front Office Wages,122051 - Front Office
+Resort On The Falls Inc,Guest Ser Sup FT,530018010-Salaries,122051 - Front Office
+Resort On The Falls Inc,Jap Gsa FT,540218010-Front Office Wages,122051 - Front Office
+Resort On The Falls Inc,LH GSA_SWB FT,540218010-Front Office Wages,122051 - Front Office
+Resort On The Falls Inc,NIGHT AUD FT,540318010-Night Audit Wages,122051 - Front Office
+Resort On The Falls Inc,Night Aud Sup FT,540318010-Night Audit Wages,122051 - Front Office
+Resort On The Falls Inc,Asst Exec Hskp,541418010-Hskp Sup Wages,122052 - Housekeeping
+Resort On The Falls Inc,Exec Hskp,530118010-Housekeeper Salaries,122052 - Housekeeping
+Resort On The Falls Inc,Houseperson FT,550218010-Houseperson Wages,122052 - Housekeeping
+Resort On The Falls Inc,Hskp Sup FT,541418010-Hskp Sup Wages,122052 - Housekeeping
+Resort On The Falls Inc,LH Houseperson FT,550218010-Houseperson Wages,122052 - Housekeeping
+Resort On The Falls Inc,Night Maid FT,550418010-Lobby & N.Maids Wages,122052 - Housekeeping
+Resort On The Falls Inc,Rm Att FT,550118010-Room Attendant Wages,122052 - Housekeeping
+Resort On The Falls Inc,Rm Att FT,550518010-Lobby Wage,122052 - Housekeeping
+Resort On The Falls Inc,Laundry Att FT,542018016-Laundry Wages,122054 - Laundry
+Resort On The Falls Inc,Engineering Mgr,530518083-Maintenance Salaries,122078 - Maintenance
+Resort On The Falls Inc,Maint Tech FT,553118083-Maintenance Wages,122078 - Maintenance
+Resort On The Falls Inc,Maint Tech LH FT,553118083-Maintenance Wages,122078 - Maintenance
+Resort On The Falls Inc,Painter FT,553118083-Maintenance Wages,122078 - Maintenance
+Resort On The Falls Inc,GEN LABOUR FT,560018083-GW Const,122178 - Constructions
+Resort On The Falls Inc,Receiver FT,550018049-Purchasing & Receiving Wages,122500 - Receiving
+Resort On The Falls Inc,Receiving Mgr FT,510018049-Management Salaries,122500 - Receiving
+Resort On The Falls Inc,Bartender FT,554118030-Bartender,122501 - Caf�
+Resort On The Falls Inc,Busperson PT,554918020-Busperson,122501 - Caf�
+Resort On The Falls Inc,D_R Hostess FT,546018020-Seater_Greeter,122501 - Caf�
+Resort On The Falls Inc,F&B Sup FT,520018020-Supervisor Wages,122501 - Caf�
+Resort On The Falls Inc,Server FT,554418020-Server Wages,122501 - Caf�
+Resort On The Falls Inc,Rm Service FT,555118021-Room Service Wages,122502 - Room Service
+Resort On The Falls Inc,Bartender FT,554118030-Bartender,122504 - Great Room
+Resort On The Falls Inc,Concierge FT,544218035-Concierge Lounge Wages,122504 - Great Room
+Resort On The Falls Inc,1ST YR APP PT,551018020-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,2nd Yr APP FT,551018025-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,2nd Yr App PT,551018020-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,3rd Yr App FT,551018025-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,Banquet Sous Chef,510518020-BOH Mgmt Sal,122508 - Kitchen
+Resort On The Falls Inc,Cook 1 FT,551018025-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,COOK 2 FT,551018025-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,COOK 2 PT,551018025-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,COOK 3 FT,551018020-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,Exec Chef,510518020-BOH Mgmt Sal,122508 - Kitchen
+Resort On The Falls Inc,EXEC SOUS CHEF,520527020-BOH Sup Wages,122508 - Kitchen
+Resort On The Falls Inc,Sous Chef FT,510518020-BOH Mgmt Sal,122508 - Kitchen
+Resort On The Falls Inc,Sous Chef PT,551018020-Production Cooks,122508 - Kitchen
+Resort On The Falls Inc,Steward FT,554618025-Dishwasher,122509 - Stewards
+Resort On The Falls Inc,Barista FT,554518045-Caf� Barista,122580 - Starbucks
+Resort On The Falls Inc,LH Barista FT,554518045-Caf� Barista,122580 - Starbucks
+Resort On The Falls Inc,AREA GM FT,510018075-Mgmt Salaries,122700 - Administrator
+Resort On The Falls Inc,Asst Gm,510018075-Mgmt Salaries,122700 - Administrator
+Resort On The Falls Inc,EXEC ASSIST PT,510018075-Mgmt Salaries,122700 - Administrator
+Resort On The Falls Inc,BARTENDER PT,554118025-Bartender,124501 - Banquets
+Resort On The Falls Inc,Bq Cashier FT,554218025-Cash Bar Cashier Wages,124501 - Banquets
+Resort On The Falls Inc,Bq Server FT,554418025-Server Wages,124501 - Banquets
+Resort On The Falls Inc,Bqt Mngr,520018025-Supervisor Wages,124501 - Banquets
+Resort On The Falls Inc,Bqt Supervisor PT,520018025-Supervisor Wages,124501 - Banquets
+Resort On The Falls Inc,Director of F&B,510018025-Mgmt Salaries,124501 - Banquets
+Resort On The Falls Inc,LH Porter 1 FT,554318025-Porters Wages,124501 - Banquets
+Resort On The Falls Inc,Porter FT,554318025-Porters Wages,124501 - Banquets
+Resort On The Falls Inc,Porter LH 2,554318025-Porters Wages,124501 - Banquets
+Resort On The Falls Inc,Red Coat Jr,520018025-Supervisor Wages,124501 - Banquets
+Resort On The Falls Inc,Accounting Asst,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Accounting Clerk,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Acct Payable,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Acct Receivable,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Acctng Sup,540017077-MFV Accounting,127000 - 127000-Accounting
+Resort On The Falls Inc,Cash Clrk FT,530018077-MFVAccounting,127000 - 127000-Accounting
+Resort On The Falls Inc,Cashier,510018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Controller,510018077-Management Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,CORP ACCOUNTANT FT,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,Fin Analyst,540017077-MFV Accounting,127000 - 127000-Accounting
+Resort On The Falls Inc,Finance Clrk,530018077-MFVAccounting,127000 - 127000-Accounting
+Resort On The Falls Inc,Inc Adit,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,MFV A_R FT,530018077-MFV Accounting,127000 - 127000-Accounting
+Resort On The Falls Inc,MFV Payroll Admin,530017079-Marriott Payroll,127000 - 127000-Accounting
+Resort On The Falls Inc,Payroll Administrator,530018077-Salaries,127000 - 127000-Accounting
+Resort On The Falls Inc,I.T Manager,530018074 IT,127004 - IT System
+Resort On The Falls Inc,Jr IT Specialist,530018074 IT,127004 - IT System
+Resort On The Falls Inc,Security,540018078-Security Wages,127068 - Security
+Resort On The Falls Inc,SECURITY FT,540018078-Security Wages,127068 - Security
+Resort On The Falls Inc,HR,530018076-Salaries,127200 - HR
+Resort On The Falls Inc,HR Coordinator FT,530018025-Hourly Wage-HR,127200 - HR
+Resort On The Falls Inc,Asst Cat Mg,530018025-Sup Salaries,127301 - GW Catering
+Resort On The Falls Inc,Conf Service Mgr,530018025-Sup Salaries,127301 - GW Catering
+Resort On The Falls Inc,DIR EVENTS & CONF SERV,510518025-BOH Mgmt Sal,127301 - GW Catering
+Resort On The Falls Inc,Dir of Conference,510518025-BOH Mgmt Sal,127301 - GW Catering
+Resort On The Falls Inc,EVENTS ADMIN FT,551127020-Events Admin Hrly,127301 - GW Catering
+,,,
+1788731 Ontario Inc,1st Yr App FT,554427020-Server Wages,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,Bartender FT,554127020-Bartenders,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,Busperson FT,554927020-Busperson,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,D_R HOST FT,546027020-Seater_Greeter,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,F&B Outlet Asst Mngr,510027020-FOH Mgmt Salaries,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,F&B Outlet Mngr,510027020-FOH Mgmt Salaries,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,F&B Outlets SV,520027020-FOH Sup Wages,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,FBO SUPERVISOR,520027020-FOH Sup Wages,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,FOH ASSISTANT MANAGER FT,510027020-FOH Mgmt Salaries,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,Server FT,554427020-Server Wages,132501 - Milestone's Dining Rm
+1788731 Ontario Inc,1st Yr App FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,2nd Yr App FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,3rd Yr App FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,COOK 1 FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,COOK 2 FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,COOK 3 FT,551127020-Line Cooks,132508 - Milestone's Kitchen
+1788731 Ontario Inc,Jr Sous Chef,520527020-BOH Sup Wages,132508 - Milestone's Kitchen
+1788731 Ontario Inc,KitchenN.Clnr FT,871627020-Cleaning Wages MS,132509 - Milestone's Stewards
+1788731 Ontario Inc,Steward FT,554627020-Dishwasher,132509 - Milestone's Stewards
